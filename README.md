@@ -1,82 +1,54 @@
-﻿# Stress-Analyser
- 
-tress Analyzer ML Web App
+# Stress Analyzer ML Web App
 
-A Machine Learning-based Stress Analyzer that predicts your stress type based on responses to 20 questions. This project combines a Random Forest Classifier developed in a Jupyter Notebook with a Flask-based web application for an interactive user experience.
+A **Machine Learning-based Stress Analyzer** that predicts your stress type based on responses to 20 questions. This project combines a **Random Forest Classifier** developed in a Jupyter Notebook with a **Flask-based web application** for an interactive user experience.
 
-🔹 Features
+---
 
-Predict Stress Type: Answer 20 simple questions to get your stress analysis.
+## 🚀 Features
 
-Accurate Predictions: Achieved 97.036% accuracy using a Random Forest Classifier.
+- **Predict Stress Type:** Answer 20 questions to get your personalized stress analysis.
+- **High Accuracy:** Achieved **97.036% accuracy** using a Random Forest Classifier.
+- **Interactive Web App:** Built with **Flask, HTML, CSS, and JavaScript**.
+- **Reproducible Results:** Download the model and code to run locally and reproduce results.
+- **Descriptive Feedback:** Provides detailed information about your stress type and suggestions.
 
-Interactive Web App: Built with Flask, HTML, CSS, and JavaScript.
+---
 
-Reproducible: Download the code and model to run it locally and reproduce results.
+## 🧠 Models Tested
 
-Descriptive Feedback: Provides detailed information about your stress type.
+- Categorical Model  
+- Naive Bayes Classifier  
+- Logistic Regression  
+- Decision Tree Classifier  
+- **Random Forest Classifier** (best performing)
 
-🔹 Models Tested
+---
 
-Categorical Model
+## ⚙️ How It Works
 
-Naive Bayes Classifier
+1. User answers 20 questions on the web interface.  
+2. The Flask backend receives the responses.  
+3. The trained Random Forest model predicts the stress type.  
+4. Results are displayed with a detailed description of the stress type.
 
-Logistic Regression
+---
 
-Decision Tree Classifier
+📊 Dataset
 
-Random Forest Classifier (best performing)
+Dataset used: https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-monitoring-datasets
 
-🔹 How It Works
-
-User answers 20 questions on the web interface.
-
-The Flask backend receives the responses.
-
-The trained Random Forest model predicts the stress type.
-
-Results are displayed along with a description of the stress type.
-
-🔹 Installation & Local Setup
-
-Clone the repository:
-
-git clone <repo-url>
-
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Run the Flask app:
-
-python app.py
-
-
-Open your browser at http://localhost:5000
-
-🔹 Dataset
-
-Dataset used: Stress Dataset from Kaggle
-
-🔹 Results
+📈 Results
 
 Accuracy: 97.036%
 
 Best Model: Random Forest Classifier
 
-Reproducible: Yes
+Reproducible: Yes, all results can be reproduced locally
 
-🔹 Technologies Used
+🛠 Technologies Used
 
 Backend: Flask, Python
 
 Frontend: HTML, CSS, JavaScript
 
 ML & Data: scikit-learn, pandas, numpy, Jupyter Notebook
-
-🔹 Contributing
-
-Contributions are welcome! Feel free to fork the repo, create branches, and submit pull requests.
