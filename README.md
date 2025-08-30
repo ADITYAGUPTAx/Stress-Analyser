@@ -2,6 +2,7 @@
 
 A **Machine Learning-based Stress Analyzer** that predicts your stress type based on responses to 20 questions. This project combines a **Random Forest Classifier** developed in a Jupyter Notebook with a **Flask-based web application** for an interactive user experience.
 
+Access: https://stress-analyser.onrender.com
 ---
 
 ## 🚀 Features
@@ -52,3 +53,4 @@ Backend: Flask, Python
 Frontend: HTML, CSS, JavaScript
 
 ML & Data: scikit-learn, pandas, numpy, Jupyter Notebook
+
