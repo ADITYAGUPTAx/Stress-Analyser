@@ -8,7 +8,7 @@ Access: https://stress-analyser.onrender.com
 ## 🚀 Features
 
 - **Predict Stress Type:** Answer 20 questions to get your personalized stress analysis.
-- **High Accuracy:** Achieved **97.036% accuracy** using a Random Forest Classifier.
+- **High Accuracy:** Achieved **96.44% accuracy** using a Random Forest Classifier.
 - **Interactive Web App:** Built with **Flask, HTML, CSS, and JavaScript**.
 - **Reproducible Results:** Download the model and code to run locally and reproduce results.
 - **Descriptive Feedback:** Provides detailed information about your stress type and suggestions.
@@ -40,7 +40,7 @@ Dataset used: https://www.kaggle.com/datasets/mdsultanulislamovi/student-stress-
 
 📈 Results
 
-Accuracy: 97.036%
+Accuracy: 96.44%
 
 Best Model: Random Forest Classifier
 
@@ -53,4 +53,5 @@ Backend: Flask, Python
 Frontend: HTML, CSS, JavaScript
 
 ML & Data: scikit-learn, pandas, numpy, Jupyter Notebook
+
 
