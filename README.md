@@ -60,19 +60,16 @@ Reproducible: Yes, all results can be reproduced locally
 
 ## How to Use Locally  
 
-```bash
-# Clone the repository
-git clone https://github.com/ADITYAGUPTAx/Stress-Analyser.git
+1. Clone the repository
+```git clone https://github.com/ADITYAGUPTAx/Stress-Analyser.git
 cd Stress-Analyser
-
-# Install dependencies
+```
+2. Install dependencies
+```
 pip install -r requirements.txt
-
-# Launch the app locally
+```
+3. Launch the app locally
+```
 python app.py
-
-
-
-
-
-
+```
+Open your browser to http://localhost:5000, complete the questionnaire, and get your stress prediction instantly.
