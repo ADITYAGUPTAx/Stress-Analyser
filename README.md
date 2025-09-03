@@ -49,13 +49,28 @@ Best Model: Random Forest Classifier
 
 Reproducible: Yes, all results can be reproduced locally
 
-🛠 Technologies Used
+## Tech Stack  
 
-Backend: Flask, Python
+- **Backend**: Python, Flask  
+- **Machine Learning**: scikit-learn, pandas, numpy  
+- **User Interface**: HTML, CSS, JavaScript  
+- **Tools**: Git for version control, Jupyter for experimentation
 
-Frontend: HTML, CSS, JavaScript
+---
 
-ML & Data: scikit-learn, pandas, numpy, Jupyter Notebook
+## How to Use Locally  
+
+```bash
+# Clone the repository
+git clone https://github.com/ADITYAGUPTAx/Stress-Analyser.git
+cd Stress-Analyser
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch the app locally
+python app.py
+
 
 
 
