@@ -22,7 +22,7 @@ Access: https://stress-analyser.onrender.com
 - Logistic Regression  
 - Decision Tree Classifier  
 - **Random Forest Classifier** (best performing)
-- <img width="850" height="572" alt="model_performance" src="https://github.com/user-attachments/assets/7b3730c8-c77a-43d8-a3e2-34bad2c441eb" />
+- <img width="600" height="400" alt="model_performance" src="https://github.com/user-attachments/assets/7b3730c8-c77a-43d8-a3e2-34bad2c441eb" />
 
 
 ---
@@ -56,6 +56,7 @@ Backend: Flask, Python
 Frontend: HTML, CSS, JavaScript
 
 ML & Data: scikit-learn, pandas, numpy, Jupyter Notebook
+
 
 
 
