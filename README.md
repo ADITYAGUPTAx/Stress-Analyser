@@ -22,7 +22,7 @@ Access: https://stress-analyser.onrender.com
 - Logistic Regression  
 - Decision Tree Classifier  
 - **Random Forest Classifier** (best performing)
-- <img width="600" height="400" alt="model_performance" src="https://github.com/user-attachments/assets/7b3730c8-c77a-43d8-a3e2-34bad2c441eb" />
+<img width="600" height="400" alt="model_performance" src="https://github.com/user-attachments/assets/7b3730c8-c77a-43d8-a3e2-34bad2c441eb" />
 
 
 ---
@@ -33,7 +33,7 @@ Access: https://stress-analyser.onrender.com
 2. The Flask backend receives the responses.  
 3. The trained Random Forest model predicts the stress type.  
 4. Results are displayed with a detailed description of the stress type.
-<img width="867" height="2450" alt="preprocessing_flow_HQ" src="https://github.com/user-attachments/assets/3335260e-e5ef-4fb4-b1b9-61aa65401bf2" />
+<img width="400" height="1100" alt="preprocessing_flow_HQ" src="https://github.com/user-attachments/assets/3335260e-e5ef-4fb4-b1b9-61aa65401bf2" />
 
 ---
 
@@ -56,6 +56,7 @@ Backend: Flask, Python
 Frontend: HTML, CSS, JavaScript
 
 ML & Data: scikit-learn, pandas, numpy, Jupyter Notebook
+
 
 
 
